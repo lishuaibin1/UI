@@ -1,0 +1,43 @@
+{
+  "dingdanguanliyemian": {
+    "Order_inquiry": {
+      "xiadanshijian": "2019-05-01 - 2019-05-15",
+      "yuyueshijian": "",
+      "wanchengshijian": "",
+      "shebeihao": "",
+      "chejia": "",
+      "quyu": "",
+      "chanpinleixing": "",
+      "duijieID": "",
+      "dingdanzhuangtai": "",
+      "dingdanleixing": "安装订单",
+      "shiwuleixing": ""
+    },
+    "Order_list":{
+      "Order_number":"U2019052910313",
+      "technician":"17765826937",
+      "Detailed_address":"陕西省",
+      "Customer":"李帅宾"
+    }
+  },
+  "NewOrder":{
+    "Customer":"李帅宾",
+    "Order_account":"李帅宾1",
+    "Contacts":"李帅宾",
+    "Telephone":"13572597243",
+    "order_type":"安装订单",
+    "province":"",
+    "city":"",
+    "area":"",
+    "Reservation_address":"沙井村",
+    "Remarks":""
+  },
+  "clientList":{
+    "ID":"14512",
+    "Trade_Name":"李帅宾",
+    "role":"天易子客户",
+    "linkman":"李帅宾",
+    "phone":"13572597243",
+    "approval_status":"未审核"
+  }
+}
